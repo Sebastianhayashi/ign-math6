@@ -3,7 +3,7 @@
 ## 仓库使用
 
 ```
-
+curl -sSL https://raw.githubusercontent.com/Sebastianhayashi/ign-math6/main/build.sh | bash
 ```
 
 
